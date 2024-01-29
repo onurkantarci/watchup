@@ -2,6 +2,8 @@
 
 App for discovering trending movies and managing your personal watchlist.
 
+Developed using TMDB API and React.
+
 ### Starting the app
 
 In the project directory, you can run:
